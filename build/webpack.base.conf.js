@@ -96,5 +96,9 @@ module.exports = {
     net: 'empty',
     tls: 'empty',
     child_process: 'empty'
+  },
+  externals: {
+    jquery: 'jQuery',
+    SplitText: 'SplitText'
   }
 }

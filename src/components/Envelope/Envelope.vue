@@ -15,7 +15,8 @@
 
 <script>
 import { TimelineMax } from 'gsap'
-import { SplitText } from 'splittext'
+// import $ from 'jquery'
+import SplitText from 'SplitText'
 export default {
   mounted () {
     this.send()
@@ -24,6 +25,7 @@ export default {
     send () {
       var tl = new TimelineMax({ delay: 1 })
       var inputText = document.querySelectorAll('.input-text')
+      // var inputText = $('.input-text')
       var mySplitText = new SplitText(inputText, { type: 'chars' })
       var chars = mySplitText.chars
       var trans = 170
