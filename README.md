@@ -23,7 +23,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 #### Original intention & Plan
-
+<!--
 初衷：总感觉送礼物超级难，尤其是送女生
 
 所以就准备使用自己的专业知识来尝试做这个来逗大佬开心，
@@ -33,3 +33,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 实现计划：
 文字 + 图片 + 音乐，多种动画的合并操作，如果能够加上视频插播就更好了，尽量在工作之外抽空完成这个。
 计划使用`Animate.css`和`Anime.js`来实现，视频还需要调研，可能是`flv.js`
+-->
