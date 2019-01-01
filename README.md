@@ -2,7 +2,7 @@
 
 [Demo](https://rain120.github.io/guxj/dist/#/)
 
-> A project to give a birthday greeting to Gu Xuejie
+> A project to give a birthday greeting to G
 
 ## Build Setup
 
