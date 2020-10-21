@@ -1,6 +1,6 @@
-# guxj
+# gift
 
-[Demo](https://rain120.github.io/guxj/dist/#/)
+[Demo](https://rain120.github.io/gift/dist/#/)
 
 > A project to give a birthday greeting to G
 
@@ -28,7 +28,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 所以就准备使用自己的专业知识来尝试做这个来逗大佬开心，
 
-博我美丽、善良、聪慧、可爱，宇宙无敌厉害还有好看的谷学姐一笑，哈哈哈，好在谷学姐不是程序猿，还看不见这个，我有时间好好开发这个。
+博我美丽、善良、聪慧、可爱，宇宙无敌厉害还有好看的 某人 一笑，哈哈哈，好在 某人 不是程序猿，还看不见这个，我有时间好好开发这个。
 
 实现计划：
 文字 + 图片 + 音乐，多种动画的合并操作，如果能够加上视频插播就更好了，尽量在工作之外抽空完成这个。
